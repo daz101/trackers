@@ -1,0 +1,10 @@
+name: trackers
+title:
+username:
+account: daz101
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 332953
+bundleId: 1344848
+url: https://daz101.shinyapps.io/trackers/
+when: 1524936672.02108
